@@ -10,6 +10,7 @@ To make it
 To run it
 >>./simulate <main_program_file> [extra_file] [extra_file] ...
 
+
 1.go: simulate the program until a HALT instruction is executed.
 
 2. run <n>: simulate the execution of the machine for n instructions.
